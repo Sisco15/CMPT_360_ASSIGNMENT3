@@ -52,6 +52,8 @@ bool parse_args(int argc, char **argv, sim_opts_t *obj) {
     }
     else if(strcmp(argv[1], "--mode=seg") == 0){
 
+        // TODO Parse args for seg
+
     }
 
     return false;
